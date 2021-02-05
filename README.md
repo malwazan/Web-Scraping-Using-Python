@@ -2,7 +2,7 @@
 
 In this Project I used scrapy python to scrape laptop reviews from flipkart.com and store them in json file.
 
--------------- Dependencies Required --------------
+Dependencies Required:
 pip install Scrapy
 pip install csv
 pip install pandas

@@ -3,10 +3,11 @@
 In this Project I used scrapy python to scrape laptop reviews from flipkart.com and store them in json file.
 
 Dependencies Required:
-pip install Scrapy
-pip install csv
-pip install pandas
-pip install selenium
+- pip install Scrapy
+- pip install csv
+- pip install pandas
+- pip install selenium
+- pip install scrapy-xlsx
 ----------------------------------------------------------
 To run the project:
 1.  go to the outer directory where "scrapy.cfg" file is present.
